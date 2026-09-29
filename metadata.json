@@ -1,0 +1,6 @@
+{
+  "name": "CoinDCX AI Crypto Trading Bot",
+  "description": "Autonomous cryptocurrency trading bot powered by Gemini AI and CoinDCX live market data, executing technical analysis and automated risk-managed orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
